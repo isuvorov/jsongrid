@@ -1,0 +1,26 @@
+{
+  "name": "jsongrid",
+  "version": "1.0.0",
+  "description": "Functions works with convertion csv-tab-like grids in json and OBRATNO",
+  "main": "lib/jsongrid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isuvorov/jsongrid.git"
+  },
+  "keywords": [
+    "json",
+    "csv",
+    "grid",
+    "tab",
+    "convert"
+  ],
+  "author": "isuvorov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isuvorov/jsongrid/issues"
+  },
+  "homepage": "https://github.com/isuvorov/jsongrid#readme"
+}
