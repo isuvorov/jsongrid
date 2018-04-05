@@ -1,6 +1,6 @@
 {
   "name": "jsongrid",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Functions works with convertion csv-tab-like grids in json and OBRATNO",
   "main": "lib/jsongrid.js",
   "scripts": {
